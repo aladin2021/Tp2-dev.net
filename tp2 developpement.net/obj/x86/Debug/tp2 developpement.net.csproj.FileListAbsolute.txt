@@ -1,0 +1,17 @@
+C:\Users\ASUS\AppData\Local\Temporary Projects\tp2 developpement.net\bin\Debug\tp2 developpement.net.exe
+C:\Users\ASUS\AppData\Local\Temporary Projects\tp2 developpement.net\bin\Debug\tp2 developpement.net.pdb
+C:\Users\ASUS\AppData\Local\Temporary Projects\tp2 developpement.net\obj\x86\Debug\tp2_developpement.net.Form1.resources
+C:\Users\ASUS\AppData\Local\Temporary Projects\tp2 developpement.net\obj\x86\Debug\tp2_developpement.net.Form2.resources
+C:\Users\ASUS\AppData\Local\Temporary Projects\tp2 developpement.net\obj\x86\Debug\tp2_developpement.net.Properties.Resources.resources
+C:\Users\ASUS\AppData\Local\Temporary Projects\tp2 developpement.net\obj\x86\Debug\tp2 developpement.net.csproj.GenerateResource.Cache
+C:\Users\ASUS\AppData\Local\Temporary Projects\tp2 developpement.net\obj\x86\Debug\tp2 developpement.net.exe
+C:\Users\ASUS\AppData\Local\Temporary Projects\tp2 developpement.net\obj\x86\Debug\tp2 developpement.net.pdb
+C:\Users\ASUS\documents\visual studio 2010\Projects\tp2 developpement.net\tp2 developpement.net\obj\x86\Debug\tp2 developpement.net.exe
+C:\Users\ASUS\documents\visual studio 2010\Projects\tp2 developpement.net\tp2 developpement.net\obj\x86\Debug\tp2 developpement.net.pdb
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\tp2 developpement.net\tp2 developpement.net\bin\Debug\tp2 developpement.net.exe
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\tp2 developpement.net\tp2 developpement.net\bin\Debug\tp2 developpement.net.pdb
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\tp2 developpement.net\tp2 developpement.net\obj\x86\Debug\tp2_developpement.net.Form1.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\tp2 developpement.net\tp2 developpement.net\obj\x86\Debug\tp2_developpement.net.Form2.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\tp2 developpement.net\tp2 developpement.net\obj\x86\Debug\tp2_developpement.net.Properties.Resources.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\tp2 developpement.net\tp2 developpement.net\obj\x86\Debug\tp2 developpement.net.csproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\tp2 developpement.net\tp2 developpement.net\obj\x86\Debug\tp2 developpement.net.csprojResolveAssemblyReference.cache
